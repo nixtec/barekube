@@ -13,5 +13,5 @@
 * No knowledge of Kubernetes is required: Linux admin required only
 * Deploy services as if it was a single Linux machine
 * Logically manage your cloud's Physical Resources (CPU/Memory/Storage) and services from control plane.
-
+* No Dockerfile, no docker image required since you can manage most of the software stacks in the Base Linux image. Manage your Cloud Software stack like you would manage in a single Linux box.
 
