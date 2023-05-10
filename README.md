@@ -1,2 +1,2 @@
 # barekube
- On-premise bare-metal Kubernetes Cloud for Linux Admins
+ Bare-metal On-premises Kubernetes for Linux Admins
