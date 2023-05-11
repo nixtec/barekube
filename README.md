@@ -8,7 +8,7 @@
 * Automatically grow your cloud with a SDS (Software Defined Storage). Zero configuration required.
 * Automated provisioning of Nodes
   * Network booting: Centrally control boot process on nodes
-  * Automated partitioning of nodes: No manual preparation per node required
+  * Automated disk partitioning of nodes: No manual preparation per node required, use a template
   * Automated inclusion to SDS (Software Defined Storage): Automagically scale-up your cloud overnight
   * Automatically create a minimalistic configuration from Template for Nodes which will be used upon boot
   * Automatically join Node to the cloud: Automagically scale-up your cloud overnight
@@ -16,4 +16,6 @@
 * Deploy services as if it was a single Linux machine
 * Logically manage your cloud's Physical Resources (CPU/Memory/Storage) and services from control plane.
 * No Dockerfile, no docker image required since you can manage most of the software stacks in the Base Linux image. Manage your Cloud Software stack like you would manage in a single Linux box.
+* Since the whole cloud appears to you as single Linux OS (as all nodes running same OS image), management becomes easy.
+
 
