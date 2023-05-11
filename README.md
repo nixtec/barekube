@@ -17,5 +17,3 @@
 * Logically manage your cloud's Physical Resources (CPU/Memory/Storage) and services from control plane.
 * No Dockerfile, no docker image required since you can manage most of the software stacks in the Base Linux image. Manage your Cloud Software stack like you would manage in a single Linux box.
 * Since the whole cloud appears to you as single Linux OS (as all nodes running same OS image), management becomes easy.
-
-
